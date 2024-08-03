@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi! My name is Ilias Soltani
+========================================================================================================================================
 
-<!--
-**ilias-soltani/ilias-soltani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍  I am a Full-Stack Developer based in Algeria, Sidi Bel Abbess.
+<br/>
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Area                | Technologies                                                                                                                                                                                                                                                                   |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Front-end (React)   | [React](https://reactjs.org/), [Redux](https://redux.js.org/) [Redux Toolkit](https://redux-toolkit.js.org/), [NextJs](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/)                                                                                     |
+| Mobile              | [React Native](https://reactnative.dev/), [Andriod Java](https://developer.android.com/)                                                                                                                                                                                                                                       |
+| Styles              | [SCSS](https://sass-scss.ru/), [SASS](https://sass-scss.ru/), [Bootstrap](https://getbootstrap.com/),[mui](https://mui.com/)                                                                                                                           |
+| Back-end            | [MongoDB](https://www.mongodb.com/), [MySQL](https://www.mysql.com/)                                                                                                     |
+| Back-end (node)     | [NodeJs](https://nodejs.org/en/), [Express](https://expressjs.com/), [Nest](https://nestjs.com/), [TypeScript](https://www.typescriptlang.org/)                                                                                             |
+| DevOps              | [Docker](https://www.docker.com/), [k8s](https://kubernetes.io/)                                                                 |
+
+### Socials
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ilias-abderrahmene-soltani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
